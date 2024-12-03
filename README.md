@@ -14,7 +14,8 @@ A React-based contact search application that allows users to search, filter, an
 
 ## Demo
 
-A video walkthrough of the application is available [here](#) (Add Google Drive Link).
+A video walkthrough of the application is available [here](https://drive.google.com/file/d/1dBLhngovt3SVb5XTBEFGk9m45AHtd7cA/view?usp=sharing)
+And you can see the demo of the website [here](https://contact-list-vinay.netlify.app/)
 
 ## Installation and Usage
 
