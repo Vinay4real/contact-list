@@ -27,5 +27,5 @@ A video walkthrough of the application is available [here](#) (Add Google Drive 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/Vinay4real/contact-list.git
    ```
